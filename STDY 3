@@ -1,0 +1,14 @@
+#slicing     [start:stop:step] start is inclusive but stop is exclusive and step is used to skip or take an extra step ahead from another characters in the string (including the first)
+#name="muhammed yaseen"
+#first_name=name[0:8]
+#print(first_name)
+#last_name=name[9:15]
+#print(last_name)
+#funki_name=name[0:15:2]
+#print(funki_name)
+#reversed_name=name[::-1] #using two collen so,python fills the rest
+#print(reversed_name)
+
+#website = "https://google.com"   #we do slicing in this way when it for links
+#slice=slice(8,-4)
+#print(website[slice])
