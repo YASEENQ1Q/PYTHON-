@@ -1,0 +1,13 @@
+pi=3.14159
+X=1
+Y=2
+Z=3
+
+print(round(pi)) #for round up the value
+print(math.ceil(pi)) #round the value to the higher/next number
+print(math.floor(pi)) #round the value to the lower/previous number
+print(abs(pi)) #makes the given number positive if it is negative(absolute value)
+print(pow(pi, 2)) #used to find square or another power values
+print(math.sqrt(pi)) #used to find the square root of a number
+print(max(X,Y,Z)) #used to find the highest value among the list
+print(min(X,Y,Z)) #used to find the smallest value among the list
