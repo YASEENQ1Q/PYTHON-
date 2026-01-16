@@ -1,0 +1,28 @@
+#LIST ::: used to store multiple items in a single variable.
+
+#food =["pizza","burger","noodles","spaghetti","pudding"]
+#food[0] ="sushi"
+
+#print(food[0])
+
+#food.append("chicken")
+#food.remove("chicken")
+#food.pop()               #removes the last element
+#food.insert(0,"chappathi")
+#food.sort()
+#food.clear()
+
+#for i in food:
+#    print(i)
+
+
+
+# 2D LISTS ::: a list of lists(Multi-dimensional list)
+
+#drinks = ["coffee","soda","tea"]
+#dinner = ["pizza","burger","hotdog"]
+#dessert = ["cake","ice cream"]
+
+#food = [drinks,dinner,dessert]
+
+#print(food[2][1])
